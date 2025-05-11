@@ -121,3 +121,15 @@ Frontend will run on: http://localhost:3000
 - Git-based version control
 - Debugging and testing with browser tools/Postman
 
+📷 Screenshots
+"See screenshorts folder"
+
+🤝 Author
+Jonathan Rikhotso
+📍 South Africa
+🎯 Solution Architect
+🔗 LinkedIn: https://www.linkedin.com/in/jonathanrikhotso/
+
+🌐 How to View
+Anyone can clone this repository or view the code by visiting:
+🔗 https://github.com/your-username/bookbazaar
