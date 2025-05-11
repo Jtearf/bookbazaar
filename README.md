@@ -132,4 +132,19 @@ Jonathan Rikhotso
 
 🌐 How to View
 Anyone can clone this repository or view the code by visiting:
-🔗 https://github.com/your-username/bookbazaar
+🔗 https://github.com/Jtearf/bookbazaar
+---
+### ✅ What You Need to Do Now
+
+1. Save the above as your `README.md` in the root of the project.
+2. Replace:
+   - `your-username` with your actual GitHub username
+   - `Your Name` and links with your real details
+   - Add screenshots if you want (they really help!)
+3. Commit and push:
+
+```bash
+git add README.md
+git commit -m "Add complete README with project documentation"
+git push
+
